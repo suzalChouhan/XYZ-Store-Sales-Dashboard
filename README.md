@@ -84,7 +84,7 @@ The dashboard gives a clear and insightful view of XYZ Store’s sales performan
 
 ## 🙌 Acknowledgements
 
-Dashboard designed and created by [Your Name].  
+Dashboard designed and created by Suzal.  
 For suggestions or improvements, feel free to open an issue or connect on GitHub.
 
 ---
