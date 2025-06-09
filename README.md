@@ -46,7 +46,7 @@ The dashboard gives a clear and insightful view of XYZ Store’s sales performan
 ## 📷 Preview
 
 ![Dashboard Preview](dashboard-preview.png)  
-> *Include a screenshot of your dashboard here for better presentation.*
+
 
 ---
 
